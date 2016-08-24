@@ -1,0 +1,11 @@
+div{
+  width:500px;
+margin:auto;
+}
+body{
+  background-color:lightgrey;
+}
+blockquote p{
+  border: 1px solid white;
+  text-align: center;
+}
